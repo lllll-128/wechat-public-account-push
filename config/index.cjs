@@ -1,6 +1,6 @@
 {"APP_ID":"wxe599ddfca42cb074","APP_SECRET":" 6c8425138705ba7a7dfcbef9475f8206",
 "IS_SHOW_COLOR":true,
-"USERS":[{"name":"Yue宝宝","id":"ov2176JF0lE1p5RGScYM0F6XpCxw",
+"USERS_INFO":[{"name":"Yue宝宝","id":"ov2176JF0lE1p5RGScYM0F6XpCxw",
 "useTemplateId":"W42z6oKZe6FbEZMz9baSY2YBdX7SGaXqmTRQ4-kB_6Y",
 "province":"辽宁","city":"大连",
 "horoscopeDate":"09-11",
