@@ -105,10 +105,6 @@ const USER_CONFIG = {
         '遇见你，我真的不想再放弃。'
       ],
     }
-  
-
-module.exports = USER_CONFIG
-}
 
 module.exports = USER_CONFIG
 
