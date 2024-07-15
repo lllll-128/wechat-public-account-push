@@ -1,3 +1,5 @@
+/* eslint-disable */
+const TEMPLATE_CONFIG = [
 {"APP_ID":"wxe599ddfca42cb074","APP_SECRET":" 6c8425138705ba7a7dfcbef9475f8206",
 "IS_SHOW_COLOR":true,
 "USERS_INFO":[{"name":"Yue宝宝","id":"ov2176JF0lE1p5RGScYM0F6XpCxw",
